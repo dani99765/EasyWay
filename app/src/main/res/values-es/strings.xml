@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Viajes</string>
+    <string name="tusRutas">Tus rutas</string>
+    <string name="puntosInteres">Puntos de interes</string>
+    <string name="notificacionesOpcionTitulo">Mostrar notificaciones</string>
+    <string name="vibracionOption">Activar o desactivar vibracion</string>
+    <string name="lenguajeOpcionTitulo">Seleccionar el idioma</string>
+    <string name="lenguajeOpcion">Selecciona el idioma de la app</string>
+    <string name="textoNotificacionTitulo">Es la hora!</string>
+    <string name="textoNotificacion">Tu ruta esta lista</string>
+    <string name="textoToastRuta">Fecha para la ruta  </string>
+    <string name="menuInicio">Inicio</string>
+    <string name="otrasOpciones">Otras opciones</string>
+    <string name="configuracion">Configuracion</string>
+    <string name="cerrarSesion">Cerrar sesion</string>
+    <string name="secciones">Secciones</string>
+    <string name="acerca">Acerca de</string>
+
+
+</resources>

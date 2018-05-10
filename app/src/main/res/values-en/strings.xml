@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Viajes</string>
+    <string name="tusRutas">Your routes</string>
+    <string name="menuInicio">Main</string>
+    <string name="puntosInteres">Points of interest</string>
+    <string name="notificacionesOpcionTitulo">Show notifications</string>
+    <string name="vibracionOption">Enable or disable vibration</string>
+    <string name="lenguajeOpcionTitulo">Select the language</string>
+    <string name="lenguajeOpcion">Select the language of the app</string>
+    <string name="textoNotificacionTitulo">It\'s time!</string>
+    <string name="textoNotificacion">Your route is ready</string>
+    <string name="textoToastRuta">Date for the route  </string>
+    <string name="otrasOpciones">Another options</string>
+    <string name="configuracion">Configuration</string>
+    <string name="cerrarSesion">Log out</string>
+    <string name="secciones">Sections</string>
+    <string name="acerca">About</string>
+
+</resources>

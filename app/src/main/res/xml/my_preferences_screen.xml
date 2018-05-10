@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <SwitchPreference
+        android:key="option1"
+        android:title="@string/notificacionesOpcionTitulo" />
+    <SwitchPreference
+        android:key="option2"
+        android:title="@string/vibracionOption" />
+    <ListPreference
+        android:dialogTitle="@string/lenguajeOpcionTitulo"
+        android:entries="@array/names"
+        android:entryValues="@array/values"
+        android:key="option3"
+        android:summary="@string/lenguajeOpcion"
+        android:title="@string/lenguajeOpcionTitulo" />
+</PreferenceScreen>

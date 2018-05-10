@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "591671927722",
+    "firebase_url": "https://proyectoapp-57cc8.firebaseio.com",
+    "project_id": "proyectoapp-57cc8",
+    "storage_bucket": "proyectoapp-57cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591671927722:android:88bc4d64da6cbbc8",
+        "android_client_info": {
+          "package_name": "org.ieselcaminas.daniel.viajes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591671927722-hmknnep8lcio9sh04qo3u31madvbsrs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.ieselcaminas.daniel.viajes",
+            "certificate_hash": "4d1d83a42301d9f8531bd69755441585f813f9c7"
+          }
+        },
+        {
+          "client_id": "591671927722-1d1rlvhf4sr9lfrknf249g2lgs6s1uoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.ieselcaminas.daniel.viajes",
+            "certificate_hash": "21f3b678cfe806aeeb50e1e771d1dd40f908656a"
+          }
+        },
+        {
+          "client_id": "591671927722-oq0dac8s81t4ckg87ifqnkeb6g4b8e54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAaLwWx7OF4ZrCDxS0shWKv5DIcSWFUu0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591671927722-oq0dac8s81t4ckg87ifqnkeb6g4b8e54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

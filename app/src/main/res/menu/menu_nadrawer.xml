@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_header1"
+        android:title="@string/secciones">
+        <menu>
+            <item
+                android:id="@+id/menu_seccion_inicio"
+                android:icon="@drawable/map"
+                android:title="@string/menuInicio"/>
+            <item
+                android:id="@+id/menu_seccion_rutas"
+                android:icon="@drawable/planet_earth"
+
+                android:title="@string/tusRutas"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/navigation_header2"
+        android:title="@string/otrasOpciones">
+        <menu>
+            <item
+                android:id="@+id/menu_seccion_config"
+                android:icon="@drawable/settings"
+                android:title="@string/configuracion"/>
+            <item
+                android:id="@+id/menu_seccion_cerrar"
+                android:icon="@drawable/logout"
+                android:title="@string/cerrarSesion"/>
+            <item
+                android:id="@+id/menu_seccion_acerca"
+                android:icon="@drawable/info"
+                android:title="@string/acerca"/>
+        </menu>
+    </item>
+</menu>
