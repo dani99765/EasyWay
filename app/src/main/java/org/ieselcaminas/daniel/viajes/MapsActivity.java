@@ -43,6 +43,7 @@ public class MapsActivity extends PermissionActivity {
     private SharedPreferences pref;
     private NavigationView navView;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
